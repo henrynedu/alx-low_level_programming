@@ -1,8 +1,8 @@
-#iclude <stdio.h>
+#include <stdio.h>
 /*
-*main - prints out a line of code using puts
-*
-*Return: 0
+ * main - prints out a line of code using puts
+ *
+ * Return: 0
 */
 int main(void)
 {
