@@ -1,5 +1,7 @@
 #include "holberton.h"
 
+int _putchar(char c);
+
 /**
  * print_times_table - print the times table until n
  *
@@ -7,8 +9,6 @@
  *
  * Return: No return
  */
-
-int _putchar(charc);
 
 void print_times_table(int n)
 {
